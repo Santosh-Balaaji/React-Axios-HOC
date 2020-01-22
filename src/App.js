@@ -5,7 +5,11 @@ import Contact from './Components/Contact';
 import About from './Components/About';
 import Home from './Components/Home';
 class App extends Component{
+  
+ 
   render(){
+
+      
   return (
     <BrowserRouter>
     <div className="App">
